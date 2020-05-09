@@ -1,0 +1,84 @@
+{
+  "Cosmetics": [
+    {
+      "ID": 1,
+      "TITLE": "Pure Anada Natural Mascara",
+      "PRODUCT": "pure anada",
+      "GENREID": 6,
+      "PRODUCTURL": "https://well.ca/products/pure-anada-natural-mascara_83255.html",
+      "IMAGEURL": "https://d3t32hsnjxo7q6.cloudfront.net/i/afefede002b8d94f6e53ea07dd4070f9_ra,w158,h184_pa,w158,h184.jpg"
+    },
+    {
+      "ID": 2,
+      "TITLE": "Physicians Formula Organic Wear Lash Boosting Mascara",
+      "AUTHOR": "physicians formula",
+      "GENREID": 6,
+      "PRODUCTURL": "https://well.ca/products/physicians-formula-organic-wear-lash_58514.html",
+      "IMAGEURL": "https://d3t32hsnjxo7q6.cloudfront.net/i/ca3136ce9bff5df45b34b25b3bbf99aa_ra,w158,h184_pa,w158,h184.jpeg"
+    },
+    {
+      "ID": 3,
+      "TITLE": "e.l.f. Studio Moisturizing Lipstick",
+      "PRODUCT": "e.l.f.",
+      "GENREID": 8,
+      "PRODUCTURL": "https://well.ca/products/elf-studio-moisturizing-lipstick_93441.html",
+      "IMAGERURL": "https://d3t32hsnjxo7q6.cloudfront.net/i/9e370b087244262131cab9db8b6725c7_ra,w158,h184_pa,w158,h184.jpeg"
+    },
+    {
+      "ID": 4,
+      "TITLE": "Revlon ColorBurst Matte Balm ",
+      "PRODUCT": "revlon",
+      "GENREID": 8,
+      "PRODUCTURL": "https://well.ca/products/revlon-colorburst-matte-balm_84513.html",
+      "IMAGEURL": "https://d3t32hsnjxo7q6.cloudfront.net/i/76076d06ebd517f1ae7e359d96d50b32_ra,w158,h184_pa,w158,h184.jpg"
+    },
+    {
+      "ID": 5,
+      "TITLE": "Suncoat Girl Water-Based Nail Polish",
+      "PRODUCT": "suncoat",
+      "GENREID": 5,
+      "PRODUCTURL": "https://well.ca/products/suncoat-girl-water-based-nail-polish_11968.html",
+      "IMAGEURL": "https://d3t32hsnjxo7q6.cloudfront.net/i/492cefdf71c66968dd5c6da10cd9c385_ra,w158,h184_pa,w158,h184.jpg"
+    },
+    {
+      "ID": 6,
+      "TITLE": "Piggy Paint Nail Polish",
+      "PRODUCT": "Ian McEwan",
+      "GENREID": 5,
+      "PRODUCTURL": "https://well.ca/products/piggy-paint-nail-polish_81387.html",
+      "IMAGEURL": "https://d3t32hsnjxo7q6.cloudfront.net/i/b52e199adc7a7a95d3b910cc234ffd65_ra,w158,h184_pa,w158,h184.jpeg"
+    },
+    {
+      "ID": 7,
+      "TITLE": "Maybelline Fit Me Blush",
+      "PRODUCT": "maybelline",
+      "GENREID": 7,
+      "PRODUCTURL": "https://well.ca/products/maybelline-fit-me-blush_31269.html",
+      "IMAGEURL": "https://d3t32hsnjxo7q6.cloudfront.net/i/53d5f825461117c0d96946e1029510b0_ra,w158,h184_pa,w158,h184.png"
+    },
+    {
+      "ID": 8,
+      "TITLE": "CoverGirl Instant Cheekbones Contouring Blush",
+      "PRODUCT": "covergirl",
+      "GENREID": 7,
+      "PRODUCTURL": "https://well.ca/products/covergirl-instant-cheekbones_33230.html",
+      "IMAGEURL": "https://d3t32hsnjxo7q6.cloudfront.net/i/5361038d5de79bedaca6c64b48271161_ra,w158,h184_pa,w158,h184.jpeg"
+    },
+    {
+      "ID": 9,
+      "TITLE": "Superbalanced&trade; Makeup",
+      "PRODUCT": "clinique",
+      "GENREID": 4,
+      "PRODUCTURL": "https://www.clinique.com/product/1599/4989/makeup/foundations/superbalanced-makeup",
+      "IMAGEURL": "https://www.clinique.com/media/export/cms/products/181x209/clq_60QH_181x209.png"
+    },
+    {
+      "ID": 10,
+      "TITLE": "Lippie Pencil",
+      "PRODUCT": "colourpop",
+      "GENREID": 2,
+      "PRODUCTURL": "https://colourpop.com/collections/lippie-pencil",
+      "IMAGEURL": "https://cdn.shopify.com/s/files/1/1338/0845/collections/lippie-pencil_grande.jpg?v=1512588769"
+    }
+  ]
+}

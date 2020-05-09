@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Beautez</string>
+    <string name="label_product">Product</string>
+    <string name="label_title">Title</string>
+    <string name="label_genre">Genre</string>
+    <string name="button_search">Search</string>
+</resources>

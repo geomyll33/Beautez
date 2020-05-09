@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cosmetics_genre">
+        <item>(all)</item>
+        <item>New_Exclusive</item>
+        <item>BestSeller</item>
+        <item>Collections</item>
+        <item>Makeup Sets</item>
+        <item>Nails</item>
+        <item>Eyes</item>
+        <item>Face</item>
+        <item>Lips</item>
+        <item>Accessories</item>
+    </string-array>
+</resources>

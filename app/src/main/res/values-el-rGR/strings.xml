@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beautez</string>
+    <string name="label_product">Προιόν</string>
+    <string name="label_title">Τίτλος</string>
+    <string name="label_genre">Είδος</string>
+    <string name="button_search">Αναζήτηση</string>
+</resources>
